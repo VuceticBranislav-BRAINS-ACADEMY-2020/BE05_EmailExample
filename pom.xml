@@ -13,7 +13,7 @@
 	<artifactId>EmailExample</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>EmailExample</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Demo project for Spring Boot demonstrate email send</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
